@@ -1,1 +1,1 @@
-console.log("hello from other user")
+console.log("hello from other")
