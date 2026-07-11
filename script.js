@@ -1,1 +1,1 @@
-console.log("hello from other")
+console.log("hello from other team")
